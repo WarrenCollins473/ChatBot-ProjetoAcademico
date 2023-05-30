@@ -1,0 +1,24 @@
+{
+    "conversas": [
+        {
+            "mensagens": [ "como calcular as médias?", "como se calcula as médias?" ],
+            "resposta": "Para calcular a média aritimetica simples, deve-se fazer o somatório de todos os valores dos dados e dividi-los pela quantidade de dados. E para calcular a média aritimetica é calculada multiplicando cada valor do conjunto de dados pelo seu peso. Depois, encontra-se a soma desses valores que será dividida pela soma dos pesos."
+        },
+        {
+            "mensagens": [ "como calcular o desvio padrão?", "como se calcula o desvio padrão?", "como calcular o desvio?", "como se calcula o desvio?" ],
+            "resposta": "A fórmula diz que o desvio-padrão é a raiz quadrada da somatória da diferença entre cada um dos elementos do conjunto com a média, dividido pela quantidade de elementos do conjunto."
+        },
+        {
+            "mensagens": [ "como calcular a variância?", "como se calcula a variância?" ],
+            "resposta": "Primeiramente, devemos calcular a média aritmética do conjunto. Em seguida, subtraímos de cada valor do conjunto a média calculada e elevamos o resultado ao quadrado. Por fim, somamos todos os valores e dividimos pelo número de dados."
+        },
+        {
+            "mensagens": [ "como calcular a moda?", "como se calcula a moda?" ],
+            "resposta": "A Moda representa o valor mais frequente de um conjunto de dados, sendo assim, para defini-la basta observar a frequência com que os valores aparecem."
+        },
+        {
+            "mensagens": [ "como calcular a mediana?", "como se calcula a mediana?" ],
+            "resposta": "A Mediana representa o valor central de um conjunto de dados. Para encontrar o valor da mediana é necessário colocar os valores em ordem crescente ou decrescente."
+        }
+    ]
+}
